@@ -10,7 +10,7 @@
 - I’m a student form China
 - I'm a marxist
 - I want to contribute to the liberation of all mankind
-- I like 《Manifest der Kommunistischen Partei》
+- I like ***Manifest der Kommunistischen Partei***
 
 My electronics
 ==
