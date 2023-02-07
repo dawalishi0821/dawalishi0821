@@ -15,7 +15,7 @@ My electronics
 - Redmi k60 8+256
 - iPadAir4 256
 - ASUS k42jc
-- A computer assembled by itself
+- A computer assembled by myself
 
 contact information
 ==
