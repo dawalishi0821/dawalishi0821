@@ -4,6 +4,7 @@
 
 [这是我的中文自我介绍](https://github.com/dawalishi0821/dawalishi0821/blob/main/README-zh-Hans.md)
 
+
 > If we choose the best for human welfare and labor employment, then the burden will not be able to overwhelm us, because this is for everyone and dedication; that time we felt is not the poor, limited, selfish pleasure, we have The happiness will belong to millions of people, our cause will be quietly, but play a role to exist forever, but the face of our ashes, noble people will shed tears.
 > <p align="right">---Karl Heinrich Marx</p>
 
@@ -25,3 +26,6 @@ My electronics
 contact information
 ==
 QQ：3083512851
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical)](https://github.com/dawalishi0821)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawalishi0821)](https://github.com/dawalishi0821/)
