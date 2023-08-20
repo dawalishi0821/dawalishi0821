@@ -17,15 +17,14 @@
 
 My electronics
 ==
-
-- Redmi k60 8+256
+- 📱Redmi k60 8+256
 - iPadAir4 256
-- ASUS k42jc
-- A computer assembled by myself
+- 💻ASUS k42jc
+- 🖥A computer assembled by myself
 
 contact information
 ==
-QQ：3083512851
+- QQ：3083512851
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical)](https://github.com/dawalishi0821)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawalishi0821)](https://github.com/dawalishi0821/)
