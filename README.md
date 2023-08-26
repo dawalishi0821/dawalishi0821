@@ -19,8 +19,6 @@ My electronics
 - 💻ASUS k42jc
 - 🖥12th Core i5 desktop computer
 
-<img src="https://raw.githubusercontent.com/dawalishi0821/dawalishi0821/main/%E7%94%B5%E8%84%91%E9%85%8D%E7%BD%AE.png" align="right">
-
 contact information
 ==
 - QQ：3083512851
