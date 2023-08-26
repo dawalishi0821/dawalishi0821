@@ -10,7 +10,7 @@
 - I want to contribute to the liberation of all mankind
 - I like reading ***Manifest der Kommunistischen Partei***
 
-<img src="https://raw.githubusercontent.com/dawalishi0821/dawalishi0821/main/%E5%88%97%E5%AE%81.jpg" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical" align="right">
 
 My electronics
 ==
@@ -22,5 +22,3 @@ My electronics
 contact information
 ==
 - QQ：3083512851
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical)](https://github.com/dawalishi0821)
