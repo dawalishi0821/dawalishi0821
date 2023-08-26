@@ -24,4 +24,3 @@ contact information
 - QQ：3083512851
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical)](https://github.com/dawalishi0821)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawalishi0821)](https://github.com/dawalishi0821/)
